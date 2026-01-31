@@ -25,9 +25,14 @@ const CONFIG = {
             text: "Est-ce que tu m'aimes?",                                    // First interaction
             yesBtn: "Oui",                                             // Text for "Yes" button
             noBtn: "Non",                                               // Text for "No" button
-            secretAnswer: ""           // Secret hover message
+            secretAnswer: " Je t'aime plus que tout au monde!"           // Secret hover message
         },
         second: {
+            text: "À quel point m'aimes tu? 🌹", // The big question!
+            yesBtn: "Oui!",                                             // Text for "Yes" button
+            noBtn: "Non"                                                 // Text for "No" button
+        }
+        third: {
             text: "Voudrais-tu être ma Valentine? 🌹", // The big question!
             yesBtn: "Oui!",                                             // Text for "Yes" button
             noBtn: "Non"                                                 // Text for "No" button

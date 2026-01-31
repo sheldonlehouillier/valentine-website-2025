@@ -28,10 +28,10 @@ const CONFIG = {
             secretAnswer: " Je t'aime plus que tout au monde!"           // Secret hover message
         },
         second: {
-            text: "À quel point m'aimes tu? 🌹", // The big question!
-            yesBtn: "Oui!",                                             // Text for "Yes" button
-            noBtn: "Non"                                                 // Text for "No" button
-        }
+            text: "How much do you love me?",          // Second question
+            startText: "This much!",                   // Text before percentage
+            nextBtn: "Next ❤️"                         // Next button text
+        },
         third: {
             text: "Voudrais-tu être ma Valentine? 🌹", // The big question!
             yesBtn: "Oui!",                                             // Text for "Yes" button

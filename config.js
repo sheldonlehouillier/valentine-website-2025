@@ -28,12 +28,12 @@ const CONFIG = {
             secretAnswer: " Je t'aime plus que tout au monde!"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",          // Second question
-            startText: "This much!",                   // Text before percentage
-            nextBtn: "Next ❤️"                         // Next button text
+            text: "À quel point m'aimes tu?",          // Second question
+            startText: "Comme ca!",                   // Text before percentage
+            nextBtn: "Suite ❤️"                         // Next button text
         },
         third: {
-            text: "Voudrais-tu être ma Valentine? 🌹", // The big question!
+            text: "Voudrais-tu être ma Valentine? 🌹",                 // The big question!
             yesBtn: "Oui!",                                             // Text for "Yes" button
             noBtn: "Non"                                                 // Text for "No" button
         }
@@ -44,7 +44,7 @@ const CONFIG = {
     loveMessages: {
         extreme: "HEIIIIN, même pas vrai!! 🥰🚀💝",  // Shows when they go past 5000%
         high: "Pas plus que ca?! 🚀💝",              // Shows when they go past 1000%
-        normal: "Pas mal..."                           // Shows when they go past 100%
+        normal: "Nul..."                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
